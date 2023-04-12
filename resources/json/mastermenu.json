@@ -1,0 +1,34 @@
+{
+  "menu": [
+    {
+      "name": "Data Agen Air",
+      "url": "/agent",
+      "icon": "menu-icon tf-icons bx bx-home-circle",
+      "slug": "agent"
+    },
+    {
+        "name": "Penjualan",
+        "url": "/penjualan",
+        "icon": "menu-icon tf-icons bx bx-money bx-circle",
+        "slug": "penjualan"
+
+    },
+    {
+        "name": "Pembayaran",
+        "url": "/pembayaran",
+        "icon": "menu-icon tf-icons bx bx-money bx-circle",
+        "slug": "pembayaran"
+
+    },
+    {
+        "menuHeader": "Laporan"
+    },
+
+    {
+        "name": "Laporan Penjualan",
+        "url": "/laporan-penjualan",
+        "icon": "menu-icon tf-icons bx bxs-book-open  bx-circle",
+        "slug": "laporanpenjualan"
+    }
+  ]
+}
